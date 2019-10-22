@@ -2,3 +2,8 @@ img{
   width:60px;
   padding: 10px;
 }
+table{
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
