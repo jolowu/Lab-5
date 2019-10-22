@@ -7,3 +7,41 @@ table{
   margin-left: auto;
   margin-right: auto;
 }
+body{
+  background-image: url("milky.jpg");
+  color: white;
+  font-family: 'Cairo', Serif;
+
+}
+h1{
+ font-family: 'Tangerine', cursive;
+  color:white;
+  text-align: center;
+  padding:2px;
+  margin-bottom: 0px;
+  font-size: 60px;
+}
+.heading{
+  background-color: black;
+  color: white;
+  text-align: left;
+  padding-left: 10px;
+  padding-right: 20px;
+  font-weight: bolder;
+}
+.planet{
+  background-color: black;
+  color: white
+}
+
+.planet:hover{
+  background-color: #52C4FF;
+  color: black;
+  border: 2px solid blue;
+}
+th{
+  border: 2px solid yellow;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: yellow;
+}
